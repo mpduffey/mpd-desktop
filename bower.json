@@ -1,0 +1,19 @@
+{
+  "name": "mpd-desktop",
+  "main": "mpd-desktop.js",
+  "homepage": "https://github.com/mpduffey/master",
+  "authors": [
+    "mpduffey <mpduffey@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ]
+}
