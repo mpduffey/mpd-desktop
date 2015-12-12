@@ -1,0 +1,23 @@
+html, body {
+  background: #555 none repeat scroll 0 0;
+}
+body {
+  height: calc(100% - 40px);
+  margin: 20px;
+  overflow: hidden;
+  padding: 0;
+  width: calc(100% - 40px);
+}
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.nav-tabs li a {
+  color: white
+}
+.nav-tabs li:hover a {
+  color: black
+}
+.controller-container div:last-child {
+  margin-right: 0
+}
